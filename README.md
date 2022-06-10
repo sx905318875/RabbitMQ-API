@@ -1,2 +1,2 @@
 # RabbitMQ-API
-包括原生Api以及Spring的集成使用案例
+包括原生Api,SpringBoot以及SpringCloudStream使用案例
